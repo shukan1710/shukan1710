@@ -113,7 +113,6 @@ Design and build <b>secure, scalable, production-ready systems</b> where
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=120&section=footer"/>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shukan_1710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shukan1710) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shukan@auriva.in) 
 
@@ -124,3 +123,4 @@ Design and build <b>secure, scalable, production-ready systems</b> where
 ![](https://nirzak-streak-stats.vercel.app/?user=shukan1710&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shukan1710&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
