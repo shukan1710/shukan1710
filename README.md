@@ -124,14 +124,3 @@ Design and build <b>secure, scalable, production-ready systems</b> where
 ![](https://nirzak-streak-stats.vercel.app/?user=shukan1710&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shukan1710&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<center>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shukan1710&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
-</center>
----
-[![](https://visitcount.itsvg.in/api?id=shukan1710&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
