@@ -1,41 +1,52 @@
-<!-- HERO SECTION -->
+<!-- TOP WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header"/>
+
 <h1 align="center">Shukan Goswami</h1>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional;Security+Analyst+%7C+Ethical+Hacker;Founder+%40+Auriva+Solution;Builder+%40+Learnivaa;Security-first+SaaS+%26+Digital+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=4FA3FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;Security+Analyst+%7C+Ethical+Hacker;Founder+%40+Auriva+Solution;Builder+%40+Learnivaa;Security-first+SaaS+%26+Digital+Products" />
 </p>
 
 <p align="center">
-  <b>🛡️ Security • 🧾 SaaS • 📱 Digital Systems</b><br/>
-  Building <b>secure, scalable & market-ready products</b>
+  <b style="color:#4FA3FF;">🛡️ Security • 🧾 SaaS • 📱 Digital Systems</b><br/>
+  <i>Designing products where <b>security</b> is not an afterthought.</i>
 </p>
 
-<hr/>
+<br/>
 
-<!-- QUICK STATS UI -->
+<!-- PREMIUM INFO CARDS -->
 <table align="center">
   <tr>
-    <td align="center"><b>🧠</b><br/>Security Analyst</td>
-    <td align="center"><b>🛡️</b><br/>CEH • CCSP</td>
-    <td align="center"><b>🏗️</b><br/>Founder</td>
-    <td align="center"><b>🧾</b><br/>Invoice SaaS</td>
-    <td align="center"><b>🎓</b><br/>Cyber Awareness</td>
+    <td align="center" width="140"><b>🧠</b><br/>Security Analyst</td>
+    <td align="center" width="140"><b>🛡️</b><br/>CEH • CCSP</td>
+    <td align="center" width="140"><b>🏗️</b><br/>Founder</td>
+    <td align="center" width="140"><b>🧾</b><br/>Invoice SaaS</td>
+    <td align="center" width="140"><b>🎓</b><br/>Awareness</td>
   </tr>
 </table>
 
-<hr/>
+<br/>
+
+<!-- GRADIENT DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <!-- BUILDING SECTION -->
 <h2>🚀 What I’m Building</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 <h3>🏢 Auriva Solution</h3>
+<p>
+<b>Security-first technology studio</b><br/>
+Building SaaS, invoice systems, and digital platforms with enterprise-grade security.
+</p>
+
 <ul>
-  <li>Security-first SaaS systems</li>
-  <li>Invoice & business platforms</li>
+  <li>Secure SaaS architecture</li>
+  <li>Invoice & business systems</li>
   <li>Web & internal tools</li>
   <li>Digital & social tech execution</li>
 </ul>
@@ -44,37 +55,47 @@
 <td width="50%" valign="top">
 
 <h3>📘 Learnivaa</h3>
+<p>
+<b>Education meets real-world tech</b><br/>
+Simplifying cybersecurity & technology into practical learning.
+</p>
+
 <ul>
   <li>Tech & cybersecurity education</li>
-  <li>Practical, industry-ready learning</li>
-  <li>MVP & platform architecture</li>
-  <li>Content + tech alignment</li>
+  <li>MVP & platform design</li>
+  <li>Industry-ready learning paths</li>
+  <li>Content + system alignment</li>
 </ul>
 
 </td>
 </tr>
 </table>
 
-<hr/>
+<!-- GRADIENT DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <!-- ACTIVE FOCUS -->
 <h2>⚡ Active Focus</h2>
 
-<ul>
-  <li>🧾 Invoice Management SaaS (Active Build)</li>
-  <li>🔐 Secure Authentication & RBAC</li>
-  <li>🛡️ Active Directory Security Labs</li>
-  <li>⚔️ Attack Simulation & Mitigation</li>
-</ul>
+<table>
+<tr>
+<td>🧾 Invoice Management SaaS</td>
+<td>🔐 Secure Auth & RBAC</td>
+<td>🛡️ Active Directory Labs</td>
+<td>⚔️ Attack Simulation</td>
+</tr>
+</table>
 
-<hr/>
+<br/>
 
-<!-- CTA -->
+<!-- FOOTER CTA -->
 <p align="center">
-  ⭐ <b>Build smart. Build secure.</b><br/>
+  <b style="color:#4FA3FF;">Build smart. Build secure.</b><br/>
   🌐 <a href="https://auriva.in">auriva.in</a>
 </p>
 
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shukan_1710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shukan1710) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shukan@auriva.in) 
