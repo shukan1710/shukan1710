@@ -1,63 +1,126 @@
-<!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=140&section=header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38BDF8&height=180&section=header&text=SHUKAN%20GOSWAMI&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Security%20Analyst%20•%20Founder%20•%20Builder&descAlign=50&descAlignY=60&descSize=20" width="100%" />
+</div>
 
-<h1 align="center" style="letter-spacing:2px;">SHUKAN GOSWAMI</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Security+Analyst+%7C+Ethical+Hacker;Founder+%40+Auriva+Solution;Engineering+Secure+SaaS;Digital+Systems+Architect" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Cybersecurity+Professional;Security+Analyst+%7C+Ethical+Hacker;Founder+%40+Auriva+Solution;Builder+%40+Learnivaa;Security-first+SaaS+%26+Digital+Systems" />
+  <b>🛡️ Defense by Design • 🧾 Automated SaaS • 🏗️ Scalable Architecture</b>
 </p>
 
 <p align="center">
-  <b>🛡️ Security • 🧾 SaaS • 📱 Digital Systems</b><br/>
-  <i>Engineering with defense in mind.</i>
+  <a href="https://instagram.com/shukan_1710">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/shukan1710">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shukan@auriva.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://auriva.in">
+    <img src="https://img.shields.io/badge/Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
-<!-- ===================== RADAR (INLINE SVG) ===================== -->
-<p align="center">
-<svg width="260" height="260" viewBox="0 0 200 200">
-  <defs>
-    <radialGradient id="g">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#020024" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+---
 
-  <!-- Outer circle -->
-  <circle cx="100" cy="100" r="90" fill="none" stroke="#38BDF8" stroke-opacity="0.35"/>
+<h2 align="center">⚡ Cyber Dashboard</h2>
 
-  <!-- Grid circles -->
-  <circle cx="100" cy="100" r="60" fill="none" stroke="#38BDF8" stroke-opacity="0.2"/>
-  <circle cx="100" cy="100" r="30" fill="none" stroke="#38BDF8" stroke-opacity="0.15"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shukan1710&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="180" alt="Shukan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukan1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=6" height="180" alt="Top Languages" />
+</div>
 
-  <!-- Cross lines -->
-  <line x1="100" y1="10" x2="100" y2="190" stroke="#38BDF8" stroke-opacity="0.15"/>
-  <line x1="10" y1="100" x2="190" y2="100" stroke="#38BDF8" stroke-opacity="0.15"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukan1710&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
+</div>
 
-  <!-- Radar sweep -->
-  <path d="M100 100 L100 10 A90 90 0 0 1 190 100 Z" fill="url(#g)">
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 100 100"
-      to="360 100 100"
-      dur="6s"
-      repeatCount="indefinite"/>
-  </path>
-</svg>
-</p>
+---
 
-<!-- ===================== DASHBOARD ===================== -->
-<h2>🧠 Cyber Dashboard</h2>
+<h2>🚀 Mission Control</h2>
 
-<table align="center">
-<tr>
-<td align="center" width="160">🧠<br/><b>Security Analyst</b></td>
-<td align="center" width="160">🛡️<br/><b>CEH • CCSP</b></td>
-<td align="center" width="160">🏗️<br/><b>Founder</b></td>
-<td align="center" width="160">🧾<br/><b>Invoice SaaS</b></td>
-<td align="center" width="160">🎓<br/><b>Awareness</b></td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 Auriva Solution</h3>
+      <p align="center"><i>Secure SaaS & Business Platforms</i></p>
+      <ul>
+        <li>🔐 <b>Security-First Architecture</b> for internal tools</li>
+        <li>🧾 <b>Automated Invoice Systems</b> with RBAC</li>
+        <li>🌐 Digital execution & Client systems</li>
+      </ul>
+      <p align="center">
+        <a href="https://auriva.in"><img src="https://img.shields.io/badge/Status-Operational-success?style=flat-square"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📘 Learnivaa</h3>
+      <p align="center"><i>Ed-Tech & Cyber Education</i></p>
+      <ul>
+        <li>🎓 <b>MVP & Platform Design</b></li>
+        <li>🛡️ Industry-ready cybersecurity learning</li>
+        <li>📱 Interactive tech education modules</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Building-orange?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
 </table>
+
+---
+
+<h2>💻 The Arsenal</h2>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">🛡️ Core & Security</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">🌐 Full Stack</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">🎨 Creative & Design</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/adobe%20ps-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" />
+        <img src="https://img.shields.io/badge/adobe%20ai-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white" />
+        <img src="https://img.shields.io/badge/adobe%20ae-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shukan1710&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
+</div></table>
 
 <hr/>
 
