@@ -1,37 +1,52 @@
-<!-- ===================== TOP CYBER WAVE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=160&section=header"/>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=140&section=header"/>
 
-<!-- ===================== NAME ===================== -->
 <h1 align="center" style="letter-spacing:2px;">SHUKAN GOSWAMI</h1>
 
-<!-- ===================== TYPING + GLOW ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Cybersecurity+Professional;Security+Analyst+%7C+Ethical+Hacker;Founder+%40+Auriva+Solution;Builder+%40+Learnivaa;Security-First+SaaS+%7C+Digital+Platforms;Build+Smart.+Build+Secure." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Security-First-0ea5e9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SaaS-Builder-0284c7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Digital-Execution-0369a1?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Cybersecurity+Professional;Security+Analyst+%7C+Ethical+Hacker;Founder+%40+Auriva+Solution;Builder+%40+Learnivaa;Security-first+SaaS+%26+Digital+Systems" />
 </p>
 
 <p align="center">
   <b>🛡️ Security • 🧾 SaaS • 📱 Digital Systems</b><br/>
-  <i>Where engineering meets defense.</i>
+  <i>Engineering with defense in mind.</i>
 </p>
 
-<!-- ===================== RADAR SCAN ANIMATION ===================== -->
+<!-- ===================== RADAR (INLINE SVG) ===================== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=radar&color=0:0ea5e9,100:38bdf8&height=220"
-    alt="security radar scan"
-  />
+<svg width="260" height="260" viewBox="0 0 200 200">
+  <defs>
+    <radialGradient id="g">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#020024" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Outer circle -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#38BDF8" stroke-opacity="0.35"/>
+
+  <!-- Grid circles -->
+  <circle cx="100" cy="100" r="60" fill="none" stroke="#38BDF8" stroke-opacity="0.2"/>
+  <circle cx="100" cy="100" r="30" fill="none" stroke="#38BDF8" stroke-opacity="0.15"/>
+
+  <!-- Cross lines -->
+  <line x1="100" y1="10" x2="100" y2="190" stroke="#38BDF8" stroke-opacity="0.15"/>
+  <line x1="10" y1="100" x2="190" y2="100" stroke="#38BDF8" stroke-opacity="0.15"/>
+
+  <!-- Radar sweep -->
+  <path d="M100 100 L100 10 A90 90 0 0 1 190 100 Z" fill="url(#g)">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 100 100"
+      to="360 100 100"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </path>
+</svg>
 </p>
 
-<!-- ===================== SCANNER DIVIDER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:0ea5e9&height=3"/>
-
-<!-- ===================== CYBER DASHBOARD ===================== -->
+<!-- ===================== DASHBOARD ===================== -->
 <h2>🧠 Cyber Dashboard</h2>
 
 <table align="center">
@@ -44,18 +59,14 @@
 </tr>
 </table>
 
-<!-- ===================== LIVE SCAN LINE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:38bdf8&height=2"/>
+<hr/>
 
-<!-- ===================== MISSION ===================== -->
 <h2>🎯 Mission</h2>
-
 <p>
 Design and build <b>secure, scalable, production-ready systems</b> where
-<strong>security is embedded at the core</strong> — not patched later.
+<strong>security is embedded by design</strong>, not added later.
 </p>
 
-<!-- ===================== WHAT I BUILD ===================== -->
 <h2>🚀 What I Build</h2>
 
 <table width="100%">
@@ -63,53 +74,64 @@ Design and build <b>secure, scalable, production-ready systems</b> where
 <td width="50%" valign="top">
 
 <h3>🏢 Auriva Solution</h3>
-<p><b>Security-Driven Tech Studio</b></p>
-
 <ul>
-  <li>🔐 Secure SaaS architecture</li>
-  <li>🧾 Invoice & business platforms</li>
-  <li>🖥️ Web & internal systems</li>
-  <li>📱 Digital & social tech execution</li>
+  <li>Secure SaaS architecture</li>
+  <li>Invoice & business platforms</li>
+  <li>Internal & client systems</li>
+  <li>Digital execution</li>
 </ul>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h3>📘 Learnivaa</h3>
-<p><b>Practical Tech & Cyber Education</b></p>
-
 <ul>
-  <li>🎓 Cybersecurity & technology learning</li>
-  <li>🧱 MVP & platform design</li>
-  <li>⚙️ Industry-aligned skill paths</li>
-  <li>🧠 Content + system integration</li>
+  <li>Cybersecurity & tech education</li>
+  <li>MVP & platform design</li>
+  <li>Industry-ready learning</li>
 </ul>
 
 </td>
 </tr>
 </table>
 
-<!-- ===================== ACTIVE SYSTEMS ===================== -->
 <h2>⚡ Active Systems</h2>
 
 <table>
 <tr>
-<td>🧾 Invoice Management SaaS</td>
-<td>🔐 Secure Auth & RBAC</td>
-<td>🛡️ Active Directory Labs</td>
+<td>🧾 Invoice SaaS</td>
+<td>🔐 Auth & RBAC</td>
+<td>🛡️ AD Security Labs</td>
 <td>⚔️ Attack Simulation</td>
 </tr>
 </table>
 
-<!-- ===================== CYBER LINE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-<!-- ===================== FOOTER CTA ===================== -->
 <p align="center">
-  <b style="color:#38BDF8;">SYSTEM STATUS: BUILDING SECURE FUTURE</b><br/>
+  <b style="color:#38BDF8;">SYSTEM STATUS: OPERATIONAL</b><br/>
   🌐 <a href="https://auriva.in">auriva.in</a>
 </p>
 
-<!-- ===================== BOTTOM WAVE ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=120&section=footer"/>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shukan_1710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shukan1710) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shukan@auriva.in) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shukan1710&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shukan1710&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shukan1710&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<center>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shukan1710&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
+</center>
+---
+[![](https://visitcount.itsvg.in/api?id=shukan1710&icon=1&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
