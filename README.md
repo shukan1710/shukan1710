@@ -1,5 +1,71 @@
-# 💫 About Me:
-# 👋 Hi, I'm Shukan Goswami<br><br>🚀 Cybersecurity Professional | Security Analyst | Ethical Hacker  <br>🏢 Founder & Tech Lead @ Auriva Solution  <br>📘 Creator & Builder @ Learnivaa  <br>🇮🇳 India<br><br>I’m a security-focused technologist and product builder with hands-on experience in **cybersecurity, secure system design, SaaS development, and digital platforms**. I work across **security, development, and digital execution**, ensuring that products are not just functional—but **secure, scalable, and market-ready**.<br><br>---<br><br>## 🧠 About Me<br><br>- 🎓 Bachelor’s degree in **Computer Applications (BCA)**<br>- 🛡️ Certified Ethical Hacker (CEH)<br>- ☁️ Certified Cloud Security Professional (CCSP)<br>- 🧪 Practical experience as a **Security Analyst**<br>- 🏗️ Founder building real-world products & platforms<br>- 📚 Actively involved in **tech education & cyber awareness**<br><br>I believe:<br>> **Good design attracts users.  <br>Strong security keeps them.**<br><br>---<br><br>## 🏢 Professional Ventures<br><br>### 🔹 Auriva Solution<br>**Role:** Founder & Tech Lead  <br><br>Auriva Solution is a technology-driven initiative where I design and develop **secure digital products**, manage **client-facing tech solutions**, and handle **end-to-end execution** from concept to deployment.<br><br>**Core Work Areas:**<br>- Secure SaaS & system architecture<br>- Invoice & business management platforms<br>- Web platforms & internal tools<br>- Cybersecurity-first development mindset<br>- Digital & social media tech execution<br><br>---<br><br>### 🔹 Learnivaa<br>**Role:** Founder & Product Builder  <br><br>Learnivaa is an **education-focused tech platform** aimed at making **technology, cybersecurity, and practical skills** easy to understand and industry-relevant.<br><br>**My Contributions:**<br>- Product vision & roadmap<br>- Platform structure & MVP planning<br>- Learning-oriented system design<br>- Content + tech alignment for learners<br><br>**Philosophy:**  <br>Learning should be **practical, simple, and useful in the real world**.<br><br>---<br><br>## 💼 Technical & Professional Expertise<br><br>### 🔐 Cybersecurity<br>- Penetration Testing (Web & Infrastructure)<br>- Vulnerability Assessment & Reporting<br>- Threat Modeling & Risk Analysis<br>- Active Directory Security<br>- Incident Response Fundamentals<br><br>### 🧪 Offensive Security (Ethical)<br>- Brute Force Attack Simulation<br>- Privilege Escalation (Lab-based)<br>- Network & System Reconnaissance<br>- Attack Detection & Mitigation<br><br>### 🖥️ Infrastructure & Systems<br>- Windows Server 2022<br>- Active Directory Domain Services (AD DS)<br>- Group Policy Management<br>- Secure Network Architecture<br>- Log Monitoring & Event Analysis<br><br>### 💻 Development & SaaS<br>- SaaS Product Planning & Architecture<br>- Secure Authentication & Access Design<br>- Invoice & Business System Logic<br>- Linux & Windows Environments<br>- Technical Documentation<br><br>---<br><br>## 🚧 Active & Recent Projects<br><br>### 🔹 Invoice Management System (SaaS) – *In Development*<br>**Description:**  <br>Currently building a **secure invoice & business management system** under Auriva Solution, designed for small businesses and professionals.<br><br>**Key Focus Areas:**<br>- Secure login & authentication flow<br>- Role-based access planning<br>- Invoice creation & management<br>- Business-friendly UI/UX<br>- Data security & scalability<br>- Future-ready SaaS architecture<br><br>---<br><br>### 🔹 Centralized Active Directory Security Lab<br>**Description:**  <br>Designed and implemented a **centralized Active Directory domain** using Windows Server 2022.<br><br>**Highlights:**<br>- Domain Controller setup<br>- User & Group policy enforcement<br>- Attack simulation & detection<br>- Security hardening techniques<br>- Detailed documentation<br><br>---<br><br>### 🔹 Brute Force Attack Analysis Project<br>**Description:**  <br>Simulated brute-force attacks to analyze authentication weaknesses and implemented preventive controls.<br><br>**Highlights:**<br>- Attack execution & monitoring<br>- Account lockout policy design<br>- Logging & alerting<br>- Security recommendations<br><br>---<br><br>### 🔹 Social Media & Digital Platform Work<br>**Description:**  <br>Handled **tech-driven social media and digital execution work** for brands and initiatives.<br><br>**Work Includes:**<br>- Content planning & execution strategy<br>- Tech integration for social platforms<br>- Branding-aligned digital presence<br>- Automation & workflow optimization<br>- Performance-focused digital execution<br><br>---<br><br>### 🔹 Cybersecurity Awareness Programs<br>Conducted **cyber awareness sessions** for students (Grades 5–12), translating complex security topics into **simple, real-life digital safety practices**.<br><br>---<br><br>## 🌱 Currently Focused On<br><br>- Scaling the invoice management SaaS<br>- Secure SaaS architecture & best practices<br>- Infrastructure security labs<br>- Product + security alignment<br>- Long-term tech product building<br><br>---<br><br>## 🤝 Open To<br><br>- Security Analyst opportunities<br>- SaaS & startup collaborations<br>- Cybersecurity research & labs<br>- Digital & tech consulting projects<br>- Education & awareness initiatives<br><br>---<br><br>## 📫 Connect With Me<br><br>- 🌐 Website: https://auriva.in<br>- 🏢 Brand: Auriva Solution<br>- 📘 Platform: Learnivaa<br>- 💼 GitHub: You’re already here 😉<br><br>---<br><br>⭐ *If you find my work useful, feel free to star repositories or connect.  <br>Let’s build secure, meaningful tech.*<br>
+<h1 align="center">Shukan Goswami</h1>
+
+<p align="center">
+🛡️ Cybersecurity • SaaS • Digital Systems<br>
+🏢 Founder @ <b>Auriva Solution</b> • 📘 <b>Learnivaa</b><br>
+🇮🇳 India
+</p>
+
+<p align="center">
+<b>Building secure, scalable products — from code to execution.</b>
+</p>
+
+---
+
+## ⚡ Snapshot
+
+🧠 **Security Analyst** • CEH • CCSP  
+🏗️ **Founder & Product Builder**  
+🧾 **Invoice SaaS (Active Build)**  
+📱 **Digital & Social Tech Execution**  
+🎓 **Cyber Awareness & Education**
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Auriva Solution  
+Secure SaaS, invoice systems,  
+business & digital platforms  
+<b>Security-first by design</b>
+
+</td>
+<td width="50%">
+
+### 📘 Learnivaa  
+Tech & cybersecurity education  
+Practical • Simple • Industry-ready
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧾 Active Focus
+
+• Invoice Management SaaS  
+• Secure Authentication & RBAC  
+• AD Security Labs  
+• Product + Security Alignment  
+
+---
+
+## 🤝 Open For
+
+• Security Analyst Roles  
+• SaaS / Startup Collaboration  
+• Cybersecurity Research  
+• Digital Tech Consulting  
+
+---
+
+⭐ *Build smart. Build secure.*
+
 
 
 ## 🌐 Socials:
