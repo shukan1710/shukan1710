@@ -1,71 +1,79 @@
+<!-- HERO SECTION -->
 <h1 align="center">Shukan Goswami</h1>
 
 <p align="center">
-🛡️ Cybersecurity • SaaS • Digital Systems<br>
-🏢 Founder @ <b>Auriva Solution</b> • 📘 <b>Learnivaa</b><br>
-🇮🇳 India
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Professional;Security+Analyst+%7C+Ethical+Hacker;Founder+%40+Auriva+Solution;Builder+%40+Learnivaa;Security-first+SaaS+%26+Digital+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<b>Building secure, scalable products — from code to execution.</b>
+  <b>🛡️ Security • 🧾 SaaS • 📱 Digital Systems</b><br/>
+  Building <b>secure, scalable & market-ready products</b>
 </p>
 
----
+<hr/>
 
-## ⚡ Snapshot
+<!-- QUICK STATS UI -->
+<table align="center">
+  <tr>
+    <td align="center"><b>🧠</b><br/>Security Analyst</td>
+    <td align="center"><b>🛡️</b><br/>CEH • CCSP</td>
+    <td align="center"><b>🏗️</b><br/>Founder</td>
+    <td align="center"><b>🧾</b><br/>Invoice SaaS</td>
+    <td align="center"><b>🎓</b><br/>Cyber Awareness</td>
+  </tr>
+</table>
 
-🧠 **Security Analyst** • CEH • CCSP  
-🏗️ **Founder & Product Builder**  
-🧾 **Invoice SaaS (Active Build)**  
-📱 **Digital & Social Tech Execution**  
-🎓 **Cyber Awareness & Education**
+<hr/>
 
----
-
-## 🚀 What I Build
+<!-- BUILDING SECTION -->
+<h2>🚀 What I’m Building</h2>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 Auriva Solution  
-Secure SaaS, invoice systems,  
-business & digital platforms  
-<b>Security-first by design</b>
+<h3>🏢 Auriva Solution</h3>
+<ul>
+  <li>Security-first SaaS systems</li>
+  <li>Invoice & business platforms</li>
+  <li>Web & internal tools</li>
+  <li>Digital & social tech execution</li>
+</ul>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📘 Learnivaa  
-Tech & cybersecurity education  
-Practical • Simple • Industry-ready
+<h3>📘 Learnivaa</h3>
+<ul>
+  <li>Tech & cybersecurity education</li>
+  <li>Practical, industry-ready learning</li>
+  <li>MVP & platform architecture</li>
+  <li>Content + tech alignment</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
----
+<hr/>
 
-## 🧾 Active Focus
+<!-- ACTIVE FOCUS -->
+<h2>⚡ Active Focus</h2>
 
-• Invoice Management SaaS  
-• Secure Authentication & RBAC  
-• AD Security Labs  
-• Product + Security Alignment  
+<ul>
+  <li>🧾 Invoice Management SaaS (Active Build)</li>
+  <li>🔐 Secure Authentication & RBAC</li>
+  <li>🛡️ Active Directory Security Labs</li>
+  <li>⚔️ Attack Simulation & Mitigation</li>
+</ul>
 
----
+<hr/>
 
-## 🤝 Open For
-
-• Security Analyst Roles  
-• SaaS / Startup Collaboration  
-• Cybersecurity Research  
-• Digital Tech Consulting  
-
----
-
-⭐ *Build smart. Build secure.*
-
+<!-- CTA -->
+<p align="center">
+  ⭐ <b>Build smart. Build secure.</b><br/>
+  🌐 <a href="https://auriva.in">auriva.in</a>
+</p>
 
 
 ## 🌐 Socials:
